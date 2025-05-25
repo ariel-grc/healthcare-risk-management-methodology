@@ -45,7 +45,7 @@ To guide the **identification, assessment, treatment, and monitoring of organiza
 ---
 
 ## 🔗 Repository Contents  
-📄 Risk_Management_Methodology_CareNovaHealth.pdf
+📄 CareNova_Risk_Management_Methodology.pdf
 📝 README.md (this file)
 
 
