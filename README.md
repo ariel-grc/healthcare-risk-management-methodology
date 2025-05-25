@@ -48,6 +48,9 @@ To guide the **identification, assessment, treatment, and monitoring of organiza
 📄 CareNova_Risk_Management_Methodology.pdf
 📝 README.md (this file)
 
+📄 [View PDF](https://github.com/ariel-grc/healthcare-risk-management-methodology/blob/main/CareNova_Risk_Management_Methodology.pdf)
+
+
 
 ---
 
