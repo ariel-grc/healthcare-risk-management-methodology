@@ -60,7 +60,7 @@ To guide the **identification**, **assessment**, **treatment**, and **monitoring
 ## 📂 Repository Contents
 
 📄 [CareNova_Risk_Management_Methodology.pdf](./CareNova_Risk_Management_Methodology.pdf)  
-📊 [Sample_Risk_Register.xlsx Template](./templates/Sample_Risk_Register.xlsx ) 
+📊 [Sample_Risk_Register.xlsx Template](./templates/Sample_Risk_Register.xlsx)  
 📝 `README.md` (this file)
 
 ---
