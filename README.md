@@ -106,7 +106,7 @@ The included **Sample Risk Register** Excel file demonstrates a practical implem
 
 ---
 
-## 📫 Connect
+## 🤝 Connect
 Want to discuss risk frameworks or GRC documentation? Let’s connect:  
 🔗 [LinkedIn](www.linkedin.com/in/arielbethea)
 
