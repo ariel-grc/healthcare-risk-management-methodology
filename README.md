@@ -1,4 +1,5 @@
-# 🛡️ CareNova Health – Risk Management Methodology  
+# 🛡️ CareNova Health – Risk Management Methodology
+
 **Document Reference:** HCARE-RMM-001  
 **Version:** 1.0 | **Status:** Approved  
 **Classification:** Confidential  
@@ -8,53 +9,78 @@
 
 ---
 
-## 📌 Overview  
-This project showcases a formal **Risk Management Methodology** designed for **CareNova Health**, a fictional healthcare organization. It reflects industry-standard GRC practices tailored for a regulated environment and demonstrates practical skills in **policy creation, qualitative risk assessment, and cross-functional risk governance**.
-
-This methodology supports enterprise risk management across **clinical, operational, IT, and vendor domains**, emphasizing patient safety, data integrity, and regulatory compliance.
+## 📚 Table of Contents
+- 📌 Overview
+- 🧠 Purpose
+- 🔍 Key Highlights
+- 📁 Included Sections
+- 📂 Repository Contents
+- 🧩 Skills Demonstrated
+- 🎯 Ideal For Roles In
+- 🏷️ Tags
+- 📫 Connect
 
 ---
 
-## 🧠 Purpose  
-To guide the **identification, assessment, treatment, and monitoring of organizational risks** using a **qualitative risk matrix** based on impact and likelihood. The methodology ensures that **non-financial risks**—such as those related to patient safety or HIPAA compliance—are addressed systematically.
+## 📌 Overview
+This project showcases a formal **Risk Management Methodology** designed for *CareNova Health*, a fictional healthcare organization. It reflects industry-standard **GRC** practices tailored for a regulated environment and demonstrates practical skills in policy creation, qualitative risk assessment, and cross-functional risk governance.
+
+This methodology supports **enterprise risk management** across clinical, operational, IT, and vendor domains, emphasizing **patient safety**, **data integrity**, and **regulatory compliance**.
 
 ---
 
-## 🔍 Key Highlights  
+## 🧠 Purpose
+To guide the **identification**, **assessment**, **treatment**, and **monitoring** of organizational risks using a **qualitative risk matrix** based on impact and likelihood. The methodology ensures that **non-financial risks**—such as those related to **patient safety** or **HIPAA compliance**—are addressed systematically.
+
+---
+
+## 🔍 Key Highlights
 - 📊 **Qualitative Risk Assessment Model** based on ACS-aligned best practices  
-- 🏥 Healthcare-specific risk categories: Patient Safety, Compliance, Clinical Operations, and IT Systems  
-- 🧾 Clear governance roles including Department Managers, Risk Committee, and Executive Team  
-- ✅ Standardized response strategies: Accept, Avoid, Treat, Transfer  
-- 🗂️ Enterprise Risk Register structure with scenario tracking, mitigation plans, and residual risk scoring  
+- 🏥 **Healthcare-specific risk categories**: Patient Safety, Compliance, Clinical Operations, and IT Systems  
+- 🧾 **Clear governance roles** including Department Managers, Risk Committee, and Executive Team  
+- ✅ **Standardized response strategies**: Accept, Avoid, Treat, Transfer  
+- 🗂️ **Enterprise Risk Register** structure with scenario tracking, mitigation plans, and residual risk scoring  
 - 🔁 **Review cadence**: Quarterly monitoring, annual methodology update, and post-incident reviews  
 
 ---
 
-## 📁 Included Sections  
-1. Purpose  
-2. Scope  
-3. Reporting Risks  
-4. Risk Owner Responsibilities  
-5. Risk Scenario Requirements  
-6. Risk Likelihood and Impact Criteria  
-7. Risk Decision Responses  
-8. Risk Thresholds and Governance  
-9. Review and Monitoring Schedule  
-10. Exceptions Process  
+## 📁 Included Sections
+- Purpose  
+- Scope  
+- Reporting Risks  
+- Risk Owner Responsibilities  
+- Risk Scenario Requirements  
+- Risk Likelihood and Impact Criteria  
+- Risk Decision Responses  
+- Risk Thresholds and Governance  
+- Review and Monitoring Schedule  
+- Exceptions Process  
+
+---
+## 📂 Repository Contents
+
+📄 [CareNova_Risk_Management_Methodology.pdf](./CareNova_Risk_Management_Methodology.pdf)  
+📊 [Sample_Risk_Register.xlsx Template](./templates/Sample_Risk_Register.xlsx ) 
+📝 `README.md` (this file)
 
 ---
 
-## 🔗 Repository Contents  
-📄 CareNova_Risk_Management_Methodology.pdf
-📝 README.md (this file)
+## 🧰 Template Features
 
-📄 [View PDF](https://github.com/ariel-grc/healthcare-risk-management-methodology/blob/main/CareNova_Risk_Management_Methodology.pdf)
+The included **Sample Risk Register** Excel file demonstrates a practical implementation of the methodology with:
 
-
+- ✅ Dropdowns for Likelihood, Impact, and Response Strategy
+- 🎯 Conditional formatting to highlight high-risk items
+- 📈 Calculated Risk Score and Residual Risk Score
+- 📅 Fields for Date Identified, Review Dates, and Risk Trend
+- 📊 Separate tabs:
+  - **Risk Register** – Main data entry
+  - **Risk Matrix** – Visual reference for scoring
+  - **Glossary of Terms** – Definitions for clarity
 
 ---
 
-## 🧩 Skills Demonstrated  
+## 🧩 Skills Demonstrated
 - Enterprise Risk Management (ERM)  
 - Governance, Risk & Compliance (GRC) Documentation  
 - Policy & Procedure Development  
@@ -64,7 +90,7 @@ To guide the **identification, assessment, treatment, and monitoring of organiza
 
 ---
 
-## 🎯 Ideal For Roles In  
+## 🎯 Ideal For Roles In
 - Risk & Compliance Analyst (Healthcare or Tech)  
 - GRC Analyst  
 - IT Policy & Compliance Specialist  
@@ -73,15 +99,15 @@ To guide the **identification, assessment, treatment, and monitoring of organiza
 
 ---
 
-## 🏷️ Tags  
+## 🏷️ Tags
 `#RiskManagement` `#GRC` `#Compliance` `#InformationSecurity`  
 `#HealthcareSecurity` `#PolicyDevelopment` `#HIPAACompliance`  
 `#RiskAssessment` `#SecurityGovernance` `#QualitativeRisk`
 
 ---
 
-## 📫 Connect  
+## 📫 Connect
 Want to discuss risk frameworks or GRC documentation? Let’s connect:  
-[LinkedIn](www.linkedin.com/in/arielbethea)
+🔗 [LinkedIn](www.linkedin.com/in/arielbethea)
 
-
+---
